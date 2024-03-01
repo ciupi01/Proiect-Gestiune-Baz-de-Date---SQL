@@ -1,1 +1,1 @@
-# Proiect-Gestiune-Baz-de-Date---SQL
+# Proiect-Gestiune-Baz-de-Date---SQL/ Database Management Project - SQL
